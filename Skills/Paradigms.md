@@ -5,22 +5,22 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
-  - Functional programming: 🎓 known
-  - Prototype-based programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
-  - Generic programming: 🎓 known
-  - Concurrent computing: 👂 heard
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🖐️ used
   - Asynchronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
-  - Reactive programming: 🎓 known
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 🎓 known
-  - Actor model
-  - Lambda calculus
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
   - Black box
   - Information hiding
   - Aspect-oriented programming
@@ -42,12 +42,12 @@
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class
-  - Object form
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
   - Instance: 🖐️ used
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert: 👂 heard
   - Creator: 👂 heard
@@ -58,28 +58,28 @@
   - Protected variations: 👂 heard
   - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP): 🖐️ used
+  - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP): 🖐️ used
-  - Liskov substitution principle (LSP): 🖐️ used
+  - Liskov substitution principle (LSP): 🙋 explained
   - Interface segregation principle (ISP): 🖐️ used
-  - Dependency inversion principle (DIP): 🖐️ used
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: 🎓 known
+  - Singleton: 🖐️ used
   - Factory Method: 🖐️ used
   - Abstract Factory: 🖐️ used
   - Adapter: 🎓 known
   - Observer: 🎓 known
-  - Strategy: 🎓 known
-  - Facade: 🎓 known
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
   - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
   - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🖐️ used
-  - Bridge: 👂 heard
-  - Builder: 👂 heard
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
   - Prototype: 🖐️ used
-  - Composite
+  - Composite: 👂 heard
   - Decorator: 👂 heard
   - Flyweight
   - Mediator
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation: 🎓 known
+  - Delegation: 🖐️ used

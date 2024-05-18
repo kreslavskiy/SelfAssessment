@@ -147,19 +147,19 @@
   - Ahead-of-time compilation: 🙋 explained
   - Transpiler: 🎓 known
   - Linter: 🙋 explained
-  - Polyfill: 🎓 known
+  - Polyfill: 🙋 explained
   - Interpreter: 🙋 explained
   - Linker: 🙋 explained
-  - Dynamic linking: 🎓 known
-  - Static linking: 🎓 known
+  - Dynamic linking: 🙋 explained
+  - Static linking: 🙋 explained
   - Runtime: 🙋 explained
   - Virtual machine: 🙋 explained
   - Register-based VM: 🎓 known
   - Stack-based VM: 🎓 known
   - Containerization: 🖐️ used
-  - Debugger: 🎓 known
-  - Tracing: 🎓 known
-  - Garbage collection: 🎓 known
+  - Debugger: 🙋 explained
+  - Tracing: 🙋 explained
+  - Garbage collection: 🙋 explained
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -167,7 +167,7 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes: 👂 heard
+  - Kubernetes: 🎓 known
   - GCC: 🎓 known
   - LLVM: 🎓 known
 - Antipatterns
@@ -195,16 +195,16 @@
   - Accumulate and fire: 🙋 explained
   - Use switch/case: 🙋 explained
   - Temporary field: 🙋 explained
-  - Handle object as instances and hashes at the same time
+  - Handle object as instances and hashes at the same time: 👂 heard
   - Use fields instead of arguments: 🙋 explained
   - Data clump: 🙋 explained
   - Feature envy: 🙋 explained
   - Monkey patch: 🎓 known
   - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode: 🎓 known
+  - Bytecode: 🙋 explained
   - V8: 🎓 known
-  - JVM: 🎓 known
+  - JVM: 🙋 explained
   - CLR: 🎓 known
   - Mono: 🎓 known
 - Operating systems
@@ -222,13 +222,13 @@
   - Real-time OS: 🎓 known
   - Embedded OS: 🎓 known
 - Standards
-  - ASCII: 🖐️ used
-  - Escape sequence: 🖐️ used
+  - ASCII: 🙋 explained
+  - Escape sequence: 🙋 explained
   - RFC: 🎓 known
   - IETF: 🎓 known
   - IANA: 🎓 known
   - IEEE: 🎓 known
-  - Base64: 🖐️ used
+  - Base64: 🙋 explained
   - ECMA: 🎓 known
   - ICANN: 🎓 known
   - ISO: 🎓 known

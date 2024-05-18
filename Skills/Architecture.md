@@ -4,12 +4,12 @@
   - Modularity: 🙋 explained
   - Components: 🙋 explained
   - Directories: 🙋 explained
-  - GRASP: 🖐️ used
-  - SOLID: 🖐️ used
-  - GoF patterns: 👂 heard
-  - CQS: 👂 heard
-  - Leaking abstractions: 👂 heard
-  - Multiparadigm code: 👂 heard
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
+  - GoF patterns: 🖐️ used
+  - CQS: 🙋 explained
+  - Leaking abstractions: 🙋 explained
+  - Multiparadigm code: 🙋 explained
   - Contract programming
   - Platform-agnostic: 🖐️ used
   - Transport-agnostic: 👂 heard
@@ -19,9 +19,9 @@
   - Coupling: 🖐️ used
   - Cyclomatic complexity: 🖐️ used
   - Reliability: 🖐️ used
-  - Quality: 🖐️ used
+  - Quality: 🙋 explained
   - Availability: 🙋 explained
-  - Flexibility: 🖐️ used
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD): 👂 heard
 - Application architecture
   - Isolation between layer: 🙋 explained
@@ -35,13 +35,13 @@
   - Dependency injection (DI): 🚀 constructed
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD): 🙋 explained
-  - Pub/sub: 🎓 known
+  - Pub/sub: 🚀 constructed
   - Message brocker: 🙋 explained
   - Agent: 👂 heard
   - Service locator: 👂 heard
   - Message Queue (MQ): 🙋 explained
-  - CQRS
-  - Event sourcing: 👂 heard
+  - CQRS: 🚀 constructed
+  - Event sourcing: 🙋 explained
   - E-R data modeling: 🙋 explained
   - Entity-relationship diagram: 🙋 explained
   - IDEF1X: 👂 heard
@@ -57,7 +57,7 @@
   - PaaS: 👂 heard
   - SaaS: 🖐️ used
   - FaaS clouds: 👂 heard
-  - Serverless: 👂 heard
+  - Serverless: 🖐️ used
   - Vendor lock-in: 🎓 known
   - Bus factor: 👂 heard
 - Solution architecture
@@ -74,15 +74,15 @@
   - BPMN: 👂 heard
   - Low-code: 🎓 known
   - No-code: 🎓 known
-  - Metric
-  - Metric abuse
+  - Metric: 🙋 explained
+  - Metric abuse: 🙋 explained
   - ACID: 👂 heard
-  - CAP theorem: 👂 heard
-  - Single source of truth (SSOT): 🎓 known
+  - CAP theorem: 🙋 explained
+  - Single source of truth (SSOT): 🙋 explained
 - Enterprise architecture
-  - Understanding business needs: 🎓 known
+  - Understanding business needs: 🙋 explained
   - Enterprise strategy: 👂 heard
-  - Integration with subsystems: 👂 heard
+  - Integration with subsystems: 🖐️ used
   - Enterprise vision: 👂 heard
   - Enterprise capabilities: 👂 heard
   - Project scope: 🖐️ used
@@ -90,8 +90,8 @@
   - Service-oriented architecture: 👂 heard
   - Microservices: 🚀 constructed
   - Process choreography: 👂 heard
-  - Service orchestration: 👂 heard
-  - Data warehouse: 👂 heard
+  - Service orchestration: 🎓 known
+  - Data warehouse: 🎓 known
   - Business Intelligence: 👂 heard
   - OLAP: 👂 heard
   - OLTP: 👂 heard

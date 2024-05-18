@@ -4,67 +4,67 @@
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and blocking code: 🎓 known
-  - Event loop phases: 👂 heard
-  - Event loop microtasks and macrotasks: 👂 heard
-  - Garbage collection: 🎓 known
-  - Node.js LTS schedule: 👂 heard
-  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🙋 explained
+  - Node.js LTS schedule: 🙋 explained
+  - I/O-bound, CPU-bound, memory-bound tasks: 🙋 explained
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules: 🎓 known
   - ECMAScript modules: 🎓 known
-  - Module `node:module`: 🎓 known
+  - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM: 🎓 known
-  - Modules as singletons: 🎓 known
-  - Contexts and scripts module `node:vm`
+  - Modules as singletons: 🖐️ used
+  - Contexts and scripts module `node:vm`: 🎓 known
   - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🎓 known
-  - Dependency injection: 🖐️ used
+  - Dependency injection: 🙋 explained
   - DI containers: 🎓 known
   - Coupling and cohesion: 🎓 known
   - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
-  - Process-based permissions
-  - Graceful shutdown: 👂 heard
-  - Clustering: 👂 heard
+  - Process-based permissions: 👂 heard
+  - Graceful shutdown: 🎓 known
+  - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 🎓 known
 - Internal API
-  - Streams API: 👂 heard
+  - Streams API: 🖐️ used
   - Web Streams API: 🎓 known
   - Crypto API: 🖐️ used
-  - Password hashing with crypto.scrypt: 👂 heard
+  - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🎓 known
-  - Worker threads: 👂 heard
-  - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 👂 heard
+  - Worker threads: 🖐️ used
+  - Performance hooks: 🎓 known
+  - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks: 🎓 known
   - AsyncLocalStorage: 🎓 known
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer: 🎓 known
-  - Module `node:worker_threads`
-  - Module `node:child_process`
-  - MessageChannel, MessagePort
+  - Module `node:worker_threads`: 🖐️ used
+  - Module `node:child_process`: 🖐️ used
+  - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel
   - Generating crypto random UUID: 🖐️ used
-  - Module `node:url` vs `new URL`: 👂 heard
+  - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`: 🖐️ used
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
-  - Module `node:zlib`: 🎓 known
+  - Module `node:zlib`: 🖐️ used
 - Network
-  - Endpoint throttling: 🎓 known
+  - Endpoint throttling: 🖐️ used
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
-  - Protocol agnostic approach: 👂 heard
+  - Protocol agnostic approach: 🎓 known
   - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S): 🖐️ used
@@ -80,7 +80,7 @@
   - Routing: 🙋 explained
   - DoS: 🎓 known
   - DDoS: 🎓 known
-  - XSS: 👂 heard
+  - XSS: 🎓 known
   - Path traversal
   - CSRF
   - DNS: 🎓 known
@@ -94,15 +94,15 @@
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Back pressure
   - Buffer: 🖐️ used
   - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer: 🖐️ used
+  - Data access layer: 🚀 constructed
   - Repository: 🖐️ used
   - Active record
   - Query builder: 🖐️ used
@@ -121,9 +121,9 @@
   - Heap dump
   - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks: 🎓 known
-  - Resource leaks: 🎓 known
-  - Data race
+  - Memory leaks: 🖐️ used
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons: 👂 heard
